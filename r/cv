@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript">
+    function delayer(){
+        window.location = "../files/nicholas-g-dunbar-resume.pdf"
+    }
+</script>
+</head>
+<body onLoad="setTimeout('delayer()', 3000)">
+<h2>Loading Resume/CV in PDF...</h2>
+</body>
+</html>

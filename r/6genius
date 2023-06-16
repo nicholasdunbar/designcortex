@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript">
+    function delayer(){
+        window.location = "https://www.youtube.com/watch?v=QwpVoGJqda0"
+    }
+</script>
+</head>
+<body onLoad="setTimeout('delayer()', 10)">
+<h2>Loading 6 Genius Inc, - Sketch n' Pass Demo Video</h2>
+</body>
+</html>

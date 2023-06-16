@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript">
+    function delayer(){
+        window.location = "../files/SurgicalNavigationUI.jpg"
+    }
+</script>
+</head>
+<body onLoad="setTimeout('delayer()', 3000)">
+<h2>Loading Image of Medtronic neurosurgical software...</h2>
+</body>
+</html>
